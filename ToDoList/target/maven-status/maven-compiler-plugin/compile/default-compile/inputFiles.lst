@@ -1,0 +1,11 @@
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\dto\TaskRequestDTO.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\service\impl\TaskServiceImpl.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\Main.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\repository\Storage.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\service\exceptions\TaskNotException.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\service\ConverterDtoToModel.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\repository\TaskRepository.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\service\TaskService.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\rest\DefaultController.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\rest\TaskController.java
+H:\skillbox\java_basics\12_SpringBootWebDevelopment\ToDoList\src\main\java\edu\example\todolist\model\Task.java
